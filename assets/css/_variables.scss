@@ -11,11 +11,11 @@ $global-line-height: 1.5rem;
 
 // Color of the background
 $global-background-color: #fff !default;
-$global-background-color-dark: #292a2d !default;
+$global-background-color-dark: #1c1c1c !default;
 
 // Color of the text
 $global-font-color: #161209 !default;
-$global-font-color-dark: #a9a9b3 !default;
+$global-font-color-dark: #cfcfcf !default;
 
 // Color of the secondary text
 $global-font-secondary-color: #a9a9b3 !default;
@@ -45,7 +45,7 @@ $scrollbar-hover-color: #a9a9b3 !default;
 // ========== Selection ========== //
 // Color of the selected text
 $selection-color: rgba(53, 166, 247, 0.25) !default;
-$selection-color-dark: rgba(50, 112, 194, 0.4) !default;
+$selection-color-dark: rgba(255, 255, 0, 0.25) !default;
 // ========== Selection ========== //
 
 // ========== Header ========== //
@@ -54,7 +54,7 @@ $header-height: 3.5rem !default;
 
 // Color of the header background
 $header-background-color: #f8f8f8 !default;
-$header-background-color-dark: #252627 !default;
+$header-background-color-dark: #252525 !default;
 
 // Font style of the header title
 $header-title-font-family: $global-font-family !default;
@@ -76,7 +76,7 @@ $toc-content-font-size: 1rem !default;
 
 // Color of the single link
 $single-link-color: #2d96bd !default;
-$single-link-color-dark: #55bde2 !default;
+$single-link-color-dark: #00ccff !default;
 
 // Color of the hover single link
 $single-link-hover-color: #ef3982 !default;
@@ -108,7 +108,7 @@ $pagination-link-hover-color-dark: #fff !default;
 // ========== Code ========== //
 // Color of the code
 $code-color: #E74C3C !default;
-$code-color-dark: #E5BF78 !default;
+$code-color-dark: #f8f8f8 !default;
 
 // Color of the code background
 $code-background-color: #f5f5f5 !default;
